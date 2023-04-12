@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.15ff8ac0.css",
+    "main.js": "/react-homework-template/static/js/main.94d0a089.js",
+    "static/js/266.7dcee58b.chunk.js": "/react-homework-template/static/js/266.7dcee58b.chunk.js",
+    "static/css/40.480c4dee.chunk.css": "/react-homework-template/static/css/40.480c4dee.chunk.css",
+    "static/js/40.cd60b4df.chunk.js": "/react-homework-template/static/js/40.cd60b4df.chunk.js",
+    "static/css/635.c0ee2e65.chunk.css": "/react-homework-template/static/css/635.c0ee2e65.chunk.css",
+    "static/js/635.5676ae16.chunk.js": "/react-homework-template/static/js/635.5676ae16.chunk.js",
+    "static/css/907.ed3623bb.chunk.css": "/react-homework-template/static/css/907.ed3623bb.chunk.css",
+    "static/js/907.0f9cc2c0.chunk.js": "/react-homework-template/static/js/907.0f9cc2c0.chunk.js",
+    "static/js/270.cdca11d3.chunk.js": "/react-homework-template/static/js/270.cdca11d3.chunk.js",
+    "index.html": "/react-homework-template/index.html",
+    "main.15ff8ac0.css.map": "/react-homework-template/static/css/main.15ff8ac0.css.map",
+    "main.94d0a089.js.map": "/react-homework-template/static/js/main.94d0a089.js.map",
+    "266.7dcee58b.chunk.js.map": "/react-homework-template/static/js/266.7dcee58b.chunk.js.map",
+    "40.480c4dee.chunk.css.map": "/react-homework-template/static/css/40.480c4dee.chunk.css.map",
+    "40.cd60b4df.chunk.js.map": "/react-homework-template/static/js/40.cd60b4df.chunk.js.map",
+    "635.c0ee2e65.chunk.css.map": "/react-homework-template/static/css/635.c0ee2e65.chunk.css.map",
+    "635.5676ae16.chunk.js.map": "/react-homework-template/static/js/635.5676ae16.chunk.js.map",
+    "907.ed3623bb.chunk.css.map": "/react-homework-template/static/css/907.ed3623bb.chunk.css.map",
+    "907.0f9cc2c0.chunk.js.map": "/react-homework-template/static/js/907.0f9cc2c0.chunk.js.map",
+    "270.cdca11d3.chunk.js.map": "/react-homework-template/static/js/270.cdca11d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ff8ac0.css",
+    "static/js/main.94d0a089.js"
+  ]
+}
